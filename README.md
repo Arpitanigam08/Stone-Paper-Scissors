@@ -4,5 +4,5 @@ Stone Paper Scissors is a web based game built with HTML, CSS and JavaScript whe
  This Game displays scores and winning results .
 
  ## Live Demo
- [ click here to play game ]
+ [ click here to play game]
 (https://Arpitanigam08.github.io/Stone-Paper-Scissors/)
